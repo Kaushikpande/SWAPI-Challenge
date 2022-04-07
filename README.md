@@ -92,7 +92,7 @@ so you need to add the routes to  your postman or import this doc to postman
 
 else 
 
-**I  did this by using axios is in server.js  file
+# I  did this by using axios is in server.js  file
 
 npm i axios
 npm install swapi-node
