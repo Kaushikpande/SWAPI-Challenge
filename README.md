@@ -82,3 +82,20 @@ npm i
 after that
 
 node index.js
+
+
+# For  working  in postman
+try
+node app.js
+so you need to add the routes to  your postman or import this doc to postman 
+->
+
+else 
+
+**I  did this by using axios is in server.js  file
+
+npm i axios
+npm install swapi-node
+
+node serve.js
+Then in postman in query you need to pass ?module=people (any module name);
